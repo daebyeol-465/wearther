@@ -40,3 +40,6 @@ PORT=3001
 - 사용자 취향, 체감온도, 활동 목적을 반영한 개인화
 - 추천 결과 저장 및 즐겨찾기
 - 추천 실패 시 폴백 문구와 이미지 품질 보정
+
+## 테스트 영상 링크
+https://drive.google.com/drive/folders/1_5Wws6Yr9NaKFKkTVfwC43eFLX3YuI4D?usp=drive_link
