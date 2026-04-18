@@ -42,4 +42,4 @@ PORT=3001
 - 추천 실패 시 폴백 문구와 이미지 품질 보정
 
 ## 테스트 영상 링크
-https://drive.google.com/drive/folders/1_5Wws6Yr9NaKFKkTVfwC43eFLX3YuI4D?usp=drive_link
+https://youtu.be/MXB6IsVf018
